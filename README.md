@@ -12,6 +12,13 @@ Feito com Next.js 15 (App Router), Tailwind, a API do Claude (saída estruturada
 e Stripe Checkout. Não usa banco de dados: o uso do mês e a assinatura ficam num cookie
 assinado com HMAC.
 
+![Semana de posts gerada](docs/resultado-pc.png)
+
+<p>
+  <img src="docs/resultado-cel.png" alt="Versão no celular" width="260" />
+  <img src="docs/planos-pc.png" alt="Página de planos" width="520" />
+</p>
+
 ## Rodar localmente
 
 ```bash
